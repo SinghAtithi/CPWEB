@@ -2,7 +2,8 @@ body{
     min-width: 100vw;
 }
 .alpha{
-    min-width: 33vw;
+    width: 720px;
+    object-fit: fill;
     /* min-height: vw; */
     margin: 1.75rem;
 }
