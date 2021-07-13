@@ -6,6 +6,7 @@ body{
 .bounce-2 {
     animation-name: bounce-4;
     animation-timing-function: ease;
+    animation-iteration-count: infinite;
     animation-duration: 3s;
 }
 @keyframes bounce-4 {
